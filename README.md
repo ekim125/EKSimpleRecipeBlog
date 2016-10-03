@@ -8,7 +8,7 @@ Submitted by: **Eddie Kim**
 
 Time spent: **12** hours spent in total
 
-URL: **Insert your Heroku URL here**
+URL: **https://secure-wildwood-80763.herokuapp.com/**
 
 ## User Stories
 
